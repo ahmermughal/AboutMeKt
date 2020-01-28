@@ -1,3 +1,4 @@
 # AboutMeKt
-Start of my journey to Kotlin as an Android Developer
-Databinding in Kotlin
+My journey to Kotlin as a Java Android Developer <br/>
+With "Developing Android Apps with Kotlin" Udacity Program <br/>
+Used databinding in Kotlin
